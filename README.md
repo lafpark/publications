@@ -1,2 +1,1 @@
-# publications
-Research publications from Laurence.
+Repository of Laurence's Publications.
